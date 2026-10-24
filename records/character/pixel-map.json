@@ -1,0 +1,34 @@
+[
+  {
+    "id": "portrait",
+    "source": "assets/character/01_portrait.png",
+    "x": 64,
+    "y": 370,
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "front",
+    "source": "assets/character/02_front.png",
+    "x": 1128,
+    "y": 370,
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "side",
+    "source": "assets/character/03_side.png",
+    "x": 64,
+    "y": 2052,
+    "width": 1024,
+    "height": 1536
+  },
+  {
+    "id": "back",
+    "source": "assets/character/04_back.png",
+    "x": 1128,
+    "y": 2052,
+    "width": 1024,
+    "height": 1536
+  }
+]

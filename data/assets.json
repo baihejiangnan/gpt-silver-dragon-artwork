@@ -1,0 +1,268 @@
+[
+  {
+    "file": "assets/archive/04_back_rejected_v1.png",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "918fde1a908af6c5465a732617d1f656cd8f734d2a01f030167f7612e202900a",
+    "bytes": 1896692
+  },
+  {
+    "file": "assets/archive/gpt_draconic_reasoning_rejected_v1.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "7e372ba0457da06c46a86924f07f753a8af188d4add7b2c3c7e9c98baf5a17db",
+    "bytes": 2672350
+  },
+  {
+    "file": "assets/archive/gpt_supplement_context_rejected_v1.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "72628f80010a75f4248ee302cc91a379511aab27cd928f004d8d1263ed4d1d47",
+    "bytes": 2584304
+  },
+  {
+    "file": "assets/cards/common-v1/01_StrikeIronclad.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "e609a9c9d7d9df5ed8c132b8f76ed309a024c484775231deebc2ec24a4d9419d",
+    "bytes": 2742066
+  },
+  {
+    "file": "assets/cards/common-v1/02_Bash.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "2f68cc5515152a388b3014acaca75220f095de057d1fc52c8880d20b08414f7f",
+    "bytes": 2876606
+  },
+  {
+    "file": "assets/cards/common-v1/03_DefendIronclad.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "dab5c05a0de176495c37d0e38ab9d5226880957f2725a051b1231949f841ac9c",
+    "bytes": 2787023
+  },
+  {
+    "file": "assets/cards/common-v1/04_Anger.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "1c09da8bea68f821beec9b4772016c4f36e4d8492fb61a19cb63365647c0da59",
+    "bytes": 2298163
+  },
+  {
+    "file": "assets/cards/common-v1/05_SwordBoomerang.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "395c09c127da1e07bb5e550cfa849f0bfd5654e1d304eefffa9d1784f98c0234",
+    "bytes": 2495570
+  },
+  {
+    "file": "assets/cards/common-v1/06_PommelStrike.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "e8b0d585701268edd7df44ea1bd7ef206fc24346866530e35c4782ad25d64858",
+    "bytes": 2608468
+  },
+  {
+    "file": "assets/cards/common-v1/07_BodySlam.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "7603bab2abf42080b1abad53e8f0373cbd499de509d03a96b737b320848c258b",
+    "bytes": 2931905
+  },
+  {
+    "file": "assets/cards/common-v1/08_MoltenFist.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "ae62919574484c8683f59c0f800be1db9af980e6772c16d7fe76f5e96ab8e3ff",
+    "bytes": 2674349
+  },
+  {
+    "file": "assets/cards/common-v1/09_Thunderclap.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "b8dd7a035f04d8ee3b2edce2efd2e50d3f76b82184502ee60327853b8287414e",
+    "bytes": 2639440
+  },
+  {
+    "file": "assets/cards/common-v1/10_TwinStrike.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "eee4442ef7092342a22f8a6f46bd956972c94fa019a9a313ac4ea56032fb614a",
+    "bytes": 2740705
+  },
+  {
+    "file": "assets/cards/common-v1/11_IronWave.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "a05a57e194f004cdc2f99093d44024e6f20d1bf67c9ae976f8695446f21aa151",
+    "bytes": 2653137
+  },
+  {
+    "file": "assets/cards/common-v1/12_Headbutt.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "340af669032c60ef583a920a601bfde4bd43388039e777ba6015a4fb308c2516",
+    "bytes": 2744805
+  },
+  {
+    "file": "assets/cards/common-v1/13_Breakthrough.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "611486394f3d9ba40366d23a5ea90676a3e0ac0796dbc391c21a4fc0af66f173",
+    "bytes": 2723079
+  },
+  {
+    "file": "assets/cards/common-v1/14_SetupStrike.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "b3104b75c049df8b6676d45ce5cf9684b520463bb0c9025d32221bd738577ad1",
+    "bytes": 2501463
+  },
+  {
+    "file": "assets/cards/common-v1/15_PerfectedStrike.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "4dc6ae65c65507228e6af4993eaa1067c4fffa5bd900f9c5dc23cace1259369c",
+    "bytes": 2791632
+  },
+  {
+    "file": "assets/cards/common-v1/16_Cinder.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "879bc7e091ce2da2d594b69716c8b6d9b18f82fc03f2660db1b89655f66439ed",
+    "bytes": 2820021
+  },
+  {
+    "file": "assets/cards/common-v1/17_TrueGrit.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "b5e1779c9151e0a9af9d2ce63312f32da3b839faf90e855a0b5407d2d750bb93",
+    "bytes": 2543113
+  },
+  {
+    "file": "assets/cards/common-v1/18_Havoc.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "7a58ddedbe5b9041b0f6fc6a8538c0c4fa18cd08d927239c6eb6109b085c21ba",
+    "bytes": 2876241
+  },
+  {
+    "file": "assets/cards/common-v1/19_ShrugItOff.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "1bbef6d568b559507f455a512ae5bc80ad75a8d2eda985711a24033b96860530",
+    "bytes": 2812183
+  },
+  {
+    "file": "assets/cards/common-v1/20_Taunt.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "dc8209c5f0a7f6b0d81f63d6d60ec5c00697d28530003cb7ec836116a258709f",
+    "bytes": 2640062
+  },
+  {
+    "file": "assets/cards/common-v1/21_Armaments.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "0a635fb87af73c2acf0c8848b728fc4977724b58aade03ce6da98e8fc48a1ff0",
+    "bytes": 2765658
+  },
+  {
+    "file": "assets/cards/common-v1/22_Tremble.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "7ae5da200b6f492d48931ad2f485d31edd8a0a73a966c4f3fd2c8ad449a5e7b9",
+    "bytes": 2764935
+  },
+  {
+    "file": "assets/cards/common-v1/23_BloodWall.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "a77aed7cb3408c025c2a27bbc5d5d695d16fb62dbea6d2441d383e1ac3c73224",
+    "bytes": 2750438
+  },
+  {
+    "file": "assets/cards/experiments/gpt_clarify_scale_v1.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "96903f0ae95921c04f05d73c560e50d8c3e7ab3b57178cbb2292719ed48e2867",
+    "bytes": 2720550
+  },
+  {
+    "file": "assets/cards/experiments/gpt_consistency_barrier_v1.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "453dde058658651987b9ca6105485df8f07ba29d7f1c7aa83b7e435aa552fbea",
+    "bytes": 2920472
+  },
+  {
+    "file": "assets/cards/experiments/gpt_draconic_reasoning_v1.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "63a648f29a4f47872cfddf56fe94edb95ce0fa58ef4ff442a71cb56361416703",
+    "bytes": 2731281
+  },
+  {
+    "file": "assets/cards/experiments/gpt_invoke_codex_v1.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "2a5c3dc4384cc785cb9a1e7f59ce03db61bbd88fbbda974df449f0063f8ceffb",
+    "bytes": 2819147
+  },
+  {
+    "file": "assets/cards/experiments/gpt_prompt_spark_v1.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "41f4f9f97e1c4d7b29aa2eb088e465ff9da1d23bfff9914e654a4219dd2d0a13",
+    "bytes": 2559856
+  },
+  {
+    "file": "assets/cards/experiments/gpt_supplement_context_v1.png",
+    "width": 1448,
+    "height": 1086,
+    "sha256": "32212da67c28e3043f9b51d2865d6b3d88b1ea7d8be6dad0961ed4d1562d9b00",
+    "bytes": 2508874
+  },
+  {
+    "file": "assets/character/01_portrait.png",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "3bfb2cdd823f288402219c678a84a4d70a9f4475dd1943892c270a76e8b8fd84",
+    "bytes": 2396795
+  },
+  {
+    "file": "assets/character/02_front.png",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "a44189c9ea79b8220bef903b97b60b119641b5df61eb3327b80b7200c9b6d1a2",
+    "bytes": 1929271
+  },
+  {
+    "file": "assets/character/03_side.png",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "db7b325fc262d3402a90259b7610c413f71a05e01a21d385c5509432d4d5cbfb",
+    "bytes": 1952317
+  },
+  {
+    "file": "assets/character/04_back.png",
+    "width": 1024,
+    "height": 1536,
+    "sha256": "32af3485bcfecb1998f38c7152e4ba4bb4ef2c098615661af700f826bd182757",
+    "bytes": 1896944
+  },
+  {
+    "file": "assets/character/character-sheet-v1.png",
+    "width": 2216,
+    "height": 3788,
+    "sha256": "737309b4072400d64c0051c781d7e9e04597fc5be91343e786dd45f947242a62",
+    "bytes": 8284881
+  },
+  {
+    "file": "assets/character/reference.png",
+    "width": 848,
+    "height": 1265,
+    "sha256": "d5d1236e3f287c73fb71d474d059aeb9332938cdbc4ec6499ef261d3f7a8d3ff",
+    "bytes": 1152445
+  }
+]

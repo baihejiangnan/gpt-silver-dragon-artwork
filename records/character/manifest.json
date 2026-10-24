@@ -1,0 +1,67 @@
+{
+  "assets": [
+    {
+      "id": "portrait",
+      "file": "assets/character/01_portrait.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3bfb2cdd823f288402219c678a84a4d70a9f4475dd1943892c270a76e8b8fd84",
+      "adopted": true,
+      "reason": "独立生成；经过本套视觉复检",
+      "tool": "image_gen",
+      "model": "未暴露",
+      "seed": "未暴露"
+    },
+    {
+      "id": "front",
+      "file": "assets/character/02_front.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "a44189c9ea79b8220bef903b97b60b119641b5df61eb3327b80b7200c9b6d1a2",
+      "adopted": true,
+      "reason": "独立生成；经过本套视觉复检",
+      "tool": "image_gen",
+      "model": "未暴露",
+      "seed": "未暴露"
+    },
+    {
+      "id": "side",
+      "file": "assets/character/03_side.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "db7b325fc262d3402a90259b7610c413f71a05e01a21d385c5509432d4d5cbfb",
+      "adopted": true,
+      "reason": "独立生成；经过本套视觉复检",
+      "tool": "image_gen",
+      "model": "未暴露",
+      "seed": "未暴露"
+    },
+    {
+      "id": "back",
+      "file": "assets/character/04_back.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "32af3485bcfecb1998f38c7152e4ba4bb4ef2c098615661af700f826bd182757",
+      "adopted": true,
+      "reason": "独立生成；经过本套视觉复检",
+      "tool": "image_gen",
+      "model": "未暴露",
+      "seed": "未暴露"
+    }
+  ],
+  "reference": {
+    "file": "reference.png",
+    "sha256": "d5d1236e3f287c73fb71d474d059aeb9332938cdbc4ec6499ef261d3f7a8d3ff"
+  },
+  "card": {
+    "file": "ChatGPT_白银龙娘_完整资产卡_v1.png",
+    "width": 2216,
+    "height": 3788,
+    "sha256": "737309b4072400d64c0051c781d7e9e04597fc5be91343e786dd45f947242a62"
+  },
+  "user_visual_acceptance": "待审",
+  "pixel_verification": "见 pixel-verification.json",
+  "pixel_verification_passed": true,
+  "pixel_verified_modules": 4,
+  "ai_visual_review": "see visual review markdown"
+}

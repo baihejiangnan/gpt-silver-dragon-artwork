@@ -1,0 +1,32 @@
+[
+  {
+    "id": "front",
+    "file": "assets/character/02_front.png",
+    "tool_output_filename": "exec-8108b777-5671-49e3-8041-27321689354e.png",
+    "sha256": "a44189c9ea79b8220bef903b97b60b119641b5df61eb3327b80b7200c9b6d1a2"
+  },
+  {
+    "id": "portrait",
+    "file": "assets/character/01_portrait.png",
+    "tool_output_filename": "exec-55132bf4-2701-4bc0-a966-c7b08ff4fa8e.png",
+    "sha256": "3bfb2cdd823f288402219c678a84a4d70a9f4475dd1943892c270a76e8b8fd84"
+  },
+  {
+    "id": "side",
+    "file": "assets/character/03_side.png",
+    "tool_output_filename": "exec-459b9a5e-02e6-4bce-8257-fa2bbbc3b3a1.png",
+    "sha256": "db7b325fc262d3402a90259b7610c413f71a05e01a21d385c5509432d4d5cbfb"
+  },
+  {
+    "id": "back-rejected-v1",
+    "file": "assets/archive/04_back_rejected_v1.png",
+    "tool_output_filename": "exec-584e8983-d27e-4d13-804b-2faa7ed47736.png",
+    "sha256": "918fde1a908af6c5465a732617d1f656cd8f734d2a01f030167f7612e202900a"
+  },
+  {
+    "id": "back-v2",
+    "file": "assets/character/04_back.png",
+    "tool_output_filename": "exec-a3a2a966-f805-4303-b66d-d993f1f404ed.png",
+    "sha256": "32af3485bcfecb1998f38c7152e4ba4bb4ef2c098615661af700f826bd182757"
+  }
+]
